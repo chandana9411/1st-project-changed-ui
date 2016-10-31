@@ -19,5 +19,3 @@ Contains all java script files.
 -	**Dispatcher-servlet.xml** : Contains all spring  MVC configuration.
 -	**Spring-security.xml** : Contains all configuration related to spring security.
 -	**Web.xml** : Deployment descriptor.
--	**Checkout-flow.xml** : Contains all configuration related to payment flow.
--	**webflow-config.xml** : Contains all configuration related to payment flow.
